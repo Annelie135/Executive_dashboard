@@ -1,5 +1,5 @@
 # Executive_dashboard
-A report on your latest sales figures. They request an executive summary of:
+A report on the latest sales figures, requesting an executive summary of:
 
 Which month and year had the most profit?
 Where is the company seeing the most success (by country/region)?
