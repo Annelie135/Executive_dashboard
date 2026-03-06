@@ -1,4 +1,4 @@
-# Executive_dashboard
+# Executive summary report
 A report on the latest sales figures, requesting an executive summary of:
 
 -Which month and year had the most profit?
