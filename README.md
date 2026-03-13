@@ -1,10 +1,10 @@
 # Executive summary report
 A report on the latest sales figures, requesting an executive summary of:
 
-Q1: Which month and year had the most profit?
-Q2: Where is the company seeing the most success (by country/region)?
-Q3: Which product and segment should the company continue to invest in?
-
+Q1: Which month and year had the most profit?<br>
+Q2: Where is the company seeing the most success (by country/region)?<br>
+Q3: Which product and segment should the company continue to invest in?<br>
+<br><br>
 
 
 
@@ -15,8 +15,8 @@ Q3: Which product and segment should the company continue to invest in?
 
 
 
-
-Answers:
-Q1: December 2014 saw the highest total profit of 2M.
-Q2: In Europe, specifically France and Germany.
-Q3: The company should continue to invest in the Paseo product and target the Small Business and Government segments.
+<br><br>
+Answers:<br>
+Q1: December 2014 saw the highest total profit of 2M.<br>
+Q2: In Europe, specifically France and Germany.<br>
+Q3: The company should continue to invest in the Paseo product and target the Small Business and Government segments.<br>
