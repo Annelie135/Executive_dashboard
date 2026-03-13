@@ -6,7 +6,14 @@ Q2: Where is the company seeing the most success (by country/region)?
 Q3: Which product and segment should the company continue to invest in?
 
 
+
+
 <img width="1919" height="1079" alt="Screenshot 2026-03-12 170002" src="https://github.com/user-attachments/assets/0af47216-b858-4157-9dfe-492eab9466ae" />
+
+
+
+
+
 
 
 Answers:
