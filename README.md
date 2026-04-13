@@ -17,6 +17,6 @@ Q3: Which product and segment should the company continue to invest in?<br>
 
 <br><br>
 Answers:<br>
-Q1: December 2014 saw the highest total profit of 2M.<br>
-Q2: In Europe, specifically France and Germany.<br>
-Q3: The company should continue to invest in the Paseo product and target the Small Business and Government segments.<br>
+A1: December 2014 saw the highest total profit of 2M.<br>
+A2: In Europe, specifically France and Germany.<br>
+A3: The company should continue to invest in the Paseo product and target the Small Business and Government segments.<br>
